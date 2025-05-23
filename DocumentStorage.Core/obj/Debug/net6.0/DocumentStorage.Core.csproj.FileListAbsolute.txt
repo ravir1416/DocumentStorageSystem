@@ -1,0 +1,12 @@
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\bin\Debug\net6.0\DocumentStorage.Core.deps.json
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\bin\Debug\net6.0\DocumentStorage.Core.dll
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\bin\Debug\net6.0\DocumentStorage.Core.pdb
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\DocumentStorage.Core.csproj.AssemblyReference.cache
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\DocumentStorage.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\DocumentStorage.Core.AssemblyInfoInputs.cache
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\DocumentStorage.Core.AssemblyInfo.cs
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\DocumentStorage.Core.csproj.CoreCompileInputs.cache
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\DocumentStorage.Core.dll
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\refint\DocumentStorage.Core.dll
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\DocumentStorage.Core.pdb
+F:\Ravi Project\DocumentStorageSolution\DocumentStorage.Core\obj\Debug\net6.0\ref\DocumentStorage.Core.dll
